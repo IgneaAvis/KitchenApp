@@ -1,0 +1,425 @@
+<resources>
+    <string name="app_name">Продукты</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="item_settings_menu">Настройки</string>
+    <string name="item_about_us_menu">О нас</string>
+    <string name="item_reference_menu">Справка</string>
+    <string-array name="products">
+        <item>Абрикос </item>
+        <item>Анис </item>
+        <item>Авокадо </item>
+        <item>Айва </item>
+        <item>Алыча </item>
+        <item>Ананас </item>
+        <item>Анчоусы </item>
+        <item>Апельсин </item>
+        <item>Арахис </item>
+        <item>Арбуз </item>
+        <item>Артишок </item>
+        <item>Бадьян </item>
+        <item>Базилик </item>
+        <item>Баклажан </item>
+        <item>Бамия</item>
+        <item>Банан </item>
+        <item>Барабулька </item>
+        <item>Баранина </item>
+        <item>Барбарис </item>
+        <item>Басмати</item>
+        <item>Бастр </item>
+        <item>Батат </item>
+        <item>Бекон </item>
+        <item>Белый гриб</item>
+        <item>Бергамот </item>
+        <item>Бобы </item>
+        <item>Бодяк </item>
+        <item>Бразильский орех </item>
+        <item>Брусника </item>
+        <item>Брынза </item>
+        <item>Брюква </item>
+        <item>Буженина </item>
+        <item>Бузина </item>
+        <item>Ваниль </item>
+        <item>Васаби </item>
+        <item>Верблюжатина </item>
+        <item>Ветчина </item>
+        <item>Вешенки </item>
+        <item>Виноград </item>
+        <item>Вишня </item>
+        <item>Водоросли </item>
+        <item>Водяной орех </item>
+        <item>Галангал </item>
+        <item>Глухарь </item>
+        <item>Говядина </item>
+        <item>Годжи ягоды </item>
+        <item>Голавль </item>
+        <item>Голубика </item>
+        <item>Горбуша </item>
+        <item>Горох </item>
+        <item>Горчица </item>
+        <item>Гранат </item>
+        <item>Грейпфрут </item>
+        <item>Грецкий орех </item>
+        <item>Гречка </item>
+        <item>Груша </item>
+        <item>Гуава </item>
+        <item>Гусь </item>
+        <item>Дикий рис </item>
+        <item>Дыня </item>
+        <item>Дягиль </item>
+        <item>Ежевика </item>
+        <item>Желатин </item>
+        <item>Желток </item>
+        <item>Женьшень </item>
+        <item>Жимолость </item>
+        <item>Зайчатина </item>
+        <item>Земляника </item>
+        <item>Зира </item>
+        <item>Ивишень </item>
+        <item>Изюм </item>
+        <item>Икра красная </item>
+        <item>Икра черная </item>
+        <item>Имбирь </item>
+        <item>Индейка </item>
+        <item>Инжир </item>
+        <item>Кабачок </item>
+        <item>Какао </item>
+        <item>Калина </item>
+        <item>Кальмар </item>
+        <item>Каперсы </item>
+        <item>Капуста </item>
+        <item>белокачанная Капуста </item>
+        <item>брокколи Капуста </item>
+        <item>брюссельская Капуста </item>
+        <item>кольраби Капуста </item>
+        <item>краснокочанная Капуста </item>
+        <item>пак-чой Капуста </item>
+        <item>пекинская Капуста </item>
+        <item>романеско Капуста </item>
+        <item>савойская Капуста </item>
+        <item>цветная Каракатица </item>
+        <item>Карась </item>
+        <item>Карамбола </item>
+        <item>Каркаде </item>
+        <item>Карп </item>
+        <item>Картофель </item>
+        <item>Каштан </item>
+        <item>Кедровые орехи </item>
+        <item>Кета </item>
+        <item>Кефаль </item>
+        <item>Кешью </item>
+        <item>Киви </item>
+        <item>Кизил </item>
+        <item>Киноа </item>
+        <item>Китовое мясо </item>
+        <item>Клементины </item>
+        <item>Клубника </item>
+        <item>Клюква </item>
+        <item>Козлобородник </item>
+        <item>Козье мясо </item>
+        <item>Кокос </item>
+        <item>Конина </item>
+        <item>Корюшка </item>
+        <item>Красная смородина </item>
+        <item>Красноперка </item>
+        <item>Краб </item>
+        <item>Крачай </item>
+        <item>Креветка </item>
+        <item>Крокодилье мясо </item>
+        <item>Кролик </item>
+        <item>Крыжовник </item>
+        <item>Кукуруза </item>
+        <item>Кукурузная крупа </item>
+        <item>Кумкват </item>
+        <item>Кунжут </item>
+        <item>Курага </item>
+        <item>Курица </item>
+        <item>Куропатка </item>
+        <item>Куркума </item>
+        <item>Лавровый лист </item>
+        <item>Лайм </item>
+        <item>Лакрица </item>
+        <item>Лангуст </item>
+        <item>Лангустины </item>
+        <item>Лещ </item>
+        <item>Лимон </item>
+        <item>Лимонник </item>
+        <item>Линь </item>
+        <item>Лисички </item>
+        <item>Личи </item>
+        <item>Лобстер (омар) </item>
+        <item>Лонган (Лам Яй) </item>
+        <item>Лосось </item>
+        <item>Лук-порей </item>
+        <item>Лук-шалот </item>
+        <item>Луфарь </item>
+        <item>Лук репчатый </item>
+        <item>Льняное семя </item>
+        <item>Люффа </item>
+        <item>Макадамия </item>
+        <item>Макаронные изделия </item>
+        <item>Маковое семя </item>
+        <item>Макрель </item>
+        <item>Малина </item>
+        <item>Манго </item>
+        <item>Мангостин </item>
+        <item>Мангольд </item>
+        <item>Мандарин </item>
+        <item>Манка </item>
+        <item>Маргарин </item>
+        <item>Масло абрикосовых косточек </item>
+        <item>Масло авокадо </item>
+        <item>Масло арахисовое </item>
+        <item>Масло аргановое </item>
+        <item>Масло виноградных косточек </item>
+        <item>Масло горчичное </item>
+        <item>Масло грецкого ореха </item>
+        <item>Масло зародышей пшеницы </item>
+        <item>Масло облепиховое </item>
+        <item>Масло оливковое </item>
+        <item>Масло какао </item>
+        <item>Масло кедровое </item>
+        <item>Масло кокосовое </item>
+        <item>Масло конопляное </item>
+        <item>Масло кукурузное </item>
+        <item>Масло кунжутное </item>
+        <item>Масло льняное </item>
+        <item>Масло миндальное </item>
+        <item>Масло пальмовое </item>
+        <item>Масло подсолнечное </item>
+        <item>Масло рапсовое </item>
+        <item>Масло расторопши </item>
+        <item>Масло рисовых отрубей </item>
+        <item>Масло рыжиковое </item>
+        <item>Масло сафлоровое </item>
+        <item>Масло соевое </item>
+        <item>Масло сливочное </item>
+        <item>Масло тмина черного </item>
+        <item>Масло тыквенное </item>
+        <item>Масло фисташковое </item>
+        <item>Масло фундука </item>
+        <item>Масло хлопковое </item>
+        <item>Масло шиповника </item>
+        <item>Маслята </item>
+        <item>Маракуйя </item>
+        <item>Маш </item>
+        <item>Мед </item>
+        <item>Мидия </item>
+        <item>Миндаль </item>
+        <item>Минтай </item>
+        <item>Можжевельник </item>
+        <item>Момордика </item>
+        <item>Мойва </item>
+        <item>Морковь </item>
+        <item>Морошка </item>
+        <item>Морская капуста </item>
+        <item>Морской окунь </item>
+        <item>Морские гребешки </item>
+        <item>Моховик </item>
+        <item>Мускатный орех </item>
+        <item>Мушмула </item>
+        <item>Муэр </item>
+        <item>Налим </item>
+        <item>Нектарин </item>
+        <item>Облепиха </item>
+        <item>Овес </item>
+        <item>Овсянка </item>
+        <item>Огурец </item>
+        <item>Окунь </item>
+        <item>Оленина </item>
+        <item>Оливки </item>
+        <item>Опята </item>
+        <item>Орегано </item>
+        <item>Орехи пинии </item>
+        <item>Орехи кола </item>
+        <item>Осетр </item>
+        <item>Осьминог </item>
+        <item>Отруби </item>
+        <item>Палтус </item>
+        <item>Пангасиус </item>
+        <item>Папайя </item>
+        <item>Пастернак </item>
+        <item>Патиссон </item>
+        <item>Пекан </item>
+        <item>Перепелка </item>
+        <item>Перец острый </item>
+        <item>Перец кайенский </item>
+        <item>Перец сладкий </item>
+        <item>Перец черный </item>
+        <item>Перец чили </item>
+        <item>Перловая крупа </item>
+        <item>Персик </item>
+        <item>Петрушка </item>
+        <item>Печень </item>
+        <item>Пикша </item>
+        <item>Питахайя - драконовый фрукт </item>
+        <item>Плотва </item>
+        <item>Подберезовик </item>
+        <item>Подосиновик </item>
+        <item>Полба </item>
+        <item>Помело </item>
+        <item>Померанец </item>
+        <item>Помидор </item>
+        <item>Помидоры черри </item>
+        <item>Портобелло </item>
+        <item>Прополис </item>
+        <item>Пшено </item>
+        <item>Пшеница </item>
+        <item>Пшеница пророщенная </item>
+        <item>Радиккио </item>
+        <item>Рак </item>
+        <item>Рамбутан </item>
+        <item>Ревень </item>
+        <item>Редис </item>
+        <item>Редька </item>
+        <item>Редька черная </item>
+        <item>Редька японская </item>
+        <item>Репа </item>
+        <item>Рис </item>
+        <item>Рис пророщенный </item>
+        <item>Руккола </item>
+        <item>Рыбий жир </item>
+        <item>Рыжик </item>
+        <item>Рябина </item>
+        <item>Рябчик </item>
+        <item>Рядовка </item>
+        <item>Сазан </item>
+        <item>Салака </item>
+        <item>Салат </item>
+        <item>Сало </item>
+        <item>Саподилла </item>
+        <item>Сардина </item>
+        <item>Сахар белый </item>
+        <item>Свекла </item>
+        <item>Свинина </item>
+        <item>Свити </item>
+        <item>Сельдерей </item>
+        <item>Сельдь </item>
+        <item>Семга </item>
+        <item>Семечки подсолнуха </item>
+        <item>Семечки тыквы </item>
+        <item>Сиг </item>
+        <item>Скумбрия </item>
+        <item>Слива </item>
+        <item>Сливки </item>
+        <item>Сметана </item>
+        <item>Сморчки </item>
+        <item>Соль </item>
+        <item>Сом </item>
+        <item>Сорго </item>
+        <item>Соя </item>
+        <item>Спаржа </item>
+        <item>Ставрида </item>
+        <item>Стерлядь </item>
+        <item>Страус </item>
+        <item>Судак </item>
+        <item>Сыроежки </item>
+        <item>Танжело </item>
+        <item>Творог </item>
+        <item>Телятина </item>
+        <item>Терн </item>
+        <item>Тетерев </item>
+        <item>Толстолобик </item>
+        <item>Топинамбур </item>
+        <item>Тофу </item>
+        <item>Трепанг </item>
+        <item>Треска </item>
+        <item>Трюфель </item>
+        <item>Тунец </item>
+        <item>Турецкий горох</item>
+        <item>Тыква </item>
+        <item>Угорь </item>
+        <item>Укроп </item>
+        <item>Улитка </item>
+        <item>Устрица </item>
+        <item>Утка </item>
+        <item>Фасоль </item>
+        <item>Фейхоа </item>
+        <item>Фенхель </item>
+        <item>Физалис </item>
+        <item>Финик </item>
+        <item>Фисташки </item>
+        <item>Форель </item>
+        <item>Фундук </item>
+        <item>Хек </item>
+        <item>Хеномелес </item>
+        <item>Хрен </item>
+        <item>Хурма </item>
+        <item>Цесарка </item>
+        <item>Цикорий </item>
+        <item>Цитрон </item>
+        <item>Цуккини </item>
+        <item>Цыпленок </item>
+        <item>Чабрец </item>
+        <item>Чайот </item>
+        <item>Черемуха </item>
+        <item>Черемша </item>
+        <item>Черешня </item>
+        <item>Черимойя </item>
+        <item>Черная смородина </item>
+        <item>Черника </item>
+        <item>Черноплодная рябина </item>
+        <item>Чернослив </item>
+        <item>Черный кардамон </item>
+        <item>Черный тмин </item>
+        <item>Чеснок </item>
+        <item>Чечевица </item>
+        <item>Шампиньон </item>
+        <item>Шелковица </item>
+        <item>Шиитак </item>
+        <item>Шимеджи </item>
+        <item>Шиповник </item>
+        <item>Шпинат </item>
+        <item>Щавель </item>
+        <item>Щука </item>
+        <item>Эвкалипт </item>
+        <item>Эноки </item>
+        <item>Яблоко </item>
+        <item>Язык </item>
+        <item>Язь </item>
+        <item>Яйцо голубиное </item>
+        <item>Яйцо гусиное </item>
+        <item>Яйцо индюшиное </item>
+        <item>Яйцо куриное  </item>
+        <item>Яйцо перепелиное</item>
+        <item>Яйцо страусиное</item>
+        <item>Яйцо утиное </item>
+        <item>Яйца фазаньи </item>
+        <item>Яйца цесарок </item>
+        <item>Яйца черепах </item>
+        <item>Ямс </item>
+        <item>Ячмень </item>
+        <item>Ячневая крупа </item>
+        <item>Айран </item>
+        <item>Йогурт </item>
+        <item>Кефир </item>
+        <item>Кумыс </item>
+        <item>Мацони </item>
+        <item>Простокваша </item>
+        <item>Ряженка </item>
+        <item>Сгущенное молоко </item>
+        <item>Сливочное масло </item>
+        <item>Сыворотка </item>
+        <item>Сыр </item>
+        <item>Творог </item>
+        <item>Маргарин </item>
+        <item>Молоко </item>
+    </string-array>
+    <string name="title_activity_settings2">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

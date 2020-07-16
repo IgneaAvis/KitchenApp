@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_products"
+        android:icon="@drawable/apple"
+        android:title="Продукты"/>
+
+    <item
+        android:id="@+id/navigation_basket"
+        android:title="Корзина"
+        android:icon="@drawable/basket"/>
+    <item
+        android:id="@+id/navigation_recipes"
+        android:icon="@drawable/spisok"
+        android:title="Рецепты" />
+
+</menu>
