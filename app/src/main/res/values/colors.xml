@@ -11,4 +11,5 @@
     <color name="actionbar_background">#FF9800</color>
     <color name="actionbar_text_color">#000000</color>
     <color name="colorGreen">#4CAF50</color>
+    <color name="colorGGreen">#8BC34A</color>
 </resources>
